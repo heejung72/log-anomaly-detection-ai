@@ -1,0 +1,16 @@
+# 데이터(용량 큼) — DACON 235717에서 받아 data/ 에 둘 것
+data/*.csv
+data/*.zip
+# 산출물/체크포인트
+results/*.pth
+results/*.ckpt
+checkpoints/
+*.log
+# 파이썬
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+# OS
+.DS_Store
