@@ -1,0 +1,3 @@
+# 고급 모델(DistilBERT) 실행 시 추가 설치. GPU 권장.
+torch>=2.0
+transformers>=4.30
